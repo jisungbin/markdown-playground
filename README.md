@@ -28,14 +28,15 @@
     - 4
 - 5
 
-> QUOTE 1
->
-> QUOTE 2
-> > aaaa
-> > aaa
-> > > aaaa
-> > aaaa
-> aaa
+> a
+> 
+> > bb
+> > 
+> > > ccc
+> > > 
+> > dd
+> > 
+> e
 
 aa
 

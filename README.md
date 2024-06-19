@@ -16,6 +16,12 @@
 ###### H6
 ####### H7
 
+- 1
+    - 2
+        - 3
+    - 4
+- 5
+
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 [^1]: This is the first footnote.

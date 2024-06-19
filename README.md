@@ -22,6 +22,10 @@
     - 4
 - 5
 
+> QUOTE 1
+>
+> QUOTE 2
+
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 [^1]: This is the first footnote.

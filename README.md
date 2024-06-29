@@ -59,6 +59,26 @@
 > - Morning, World2!
 > - Bye, World2!
 
+My text!
+> 0. My ordered list!
+>    
+>    My ordered list's new line!
+>
+> 2. My ordered list!
+>    
+>    My ordered list's new line!
+>    
+> 3. My ordered list!
+>    
+>    My ordered list's new line!
+>
+> My quote!
+> 
+> My quote's new line!
+> My quote!
+> 
+> My quote's new line!
+
 aa
 
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
